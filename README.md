@@ -3,7 +3,7 @@
 <h1 align="center">Hi, I'm Md. Khorshedujjaman</h1>
 
 <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=18&duration=3000&pause=&color=9AAD24&vCenter=true&multiline=true&width=435&height=60&lines=A+passionate+Full+Stack+Developer+%26+SQA;Engineer+from+Bangladesh."
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=18&duration=3000&pause=&color=9AAD24&vCenter=true&multiline=true&width=435&height=60&lines=A+passionate+Developer+%26+SQA;Engineer+from+Bangladesh."
         alt="Typing SVG" />
 </a>
 
