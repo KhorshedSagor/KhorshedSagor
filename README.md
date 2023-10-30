@@ -74,10 +74,6 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
             alt="nodejs" width="40" height="40" />
     </a>
-    <a href="https://developer.android.com" target="_blank" rel="noreferrer">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg"
-            alt="androidstudio" width="40" height="40" />
-    </a>
     <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
         <img src="https://github.com/zafir100100/zafir100100/blob/main/resources/postgres.png"
             alt="postgres" width="80" height="40" />
@@ -94,14 +90,6 @@
         <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg"
             alt="selenium" width="40" height="40" />
     </a>
-    <a href="https://junit.org/" target="_blank" rel="noreferrer">
-        <img src="https://avatars.githubusercontent.com/u/874086?s=200&v=4"
-            alt="JUnit" width="40" height="40" />
-    </a>
-    <a href="https://testng.org" target="_blank" rel="noreferrer">
-        <img src="https://e7.pngegg.com/pngimages/640/776/png-clipart-testng-logo-software-testing-software-framework-computer-icons-automation-testing-angle-text.png"
-            alt="TestNG" width="80" height="40" />
-    </a>
     <a href="https://jmeter.apache.org/" target="_blank" rel="noreferrer">
         <img src="http://jmeter.apache.org/images/jmeter.png"
             alt="Jmeter" width="120" height="40" />
@@ -109,9 +97,6 @@
     <a href="https://www.cypress.io" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg"
             alt="cypress" width="40" height="40" />
-    </a>
-    <a href="https://helpx.adobe.com/xd" target="_blank" rel="noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/1200px-Adobe_XD_CC_icon.svg.png" alt="figma" width="40" height="40" />
     </a>
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" />
