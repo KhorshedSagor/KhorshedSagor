@@ -50,18 +50,6 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
             alt="javascript" width="40" height="40" />
     </a>
-    <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"
-            alt="nextjs" width="40" height="40" />
-    </a>
-    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg"
-            alt="tailwindcss" width="40" height="40" />
-    </a>
-    <a href="https://vercel.com/" target="_blank" rel="noreferrer">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg"
-            alt="vercel" width="40" height="40" />
-    </a>
     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40"
             height="40" />
@@ -89,10 +77,6 @@
     <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
         <img src="https://github.com/zafir100100/zafir100100/blob/main/resources/postgres.png"
             alt="postgres" width="80" height="40" />
-    </a>
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-        <img src="https://github.com/zafir100100/zafir100100/blob/main/resources/mysql.png"
-            alt="mysql" width="120" height="40" />
     </a>
     <a href="https://postman.com" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40"
