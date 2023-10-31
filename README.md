@@ -18,7 +18,7 @@
 
 
 <h3 align="left">
-    - 📫 Reach Me Here:
+    📫 Reach Me Here:
 </h3>
 <p align="center">
     <a href="mailto:khorshedsagor4@gmail.com">
