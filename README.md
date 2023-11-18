@@ -12,8 +12,8 @@
 
 - 🔭 I'm currently working on **Frontend web development, manual testing**
 - 🌱 I’m currently learning **Automation testing, Gen AI Product development**
-- @  I’m interested in ** OpenAI & GPT's **
-- @  I'm interested in ** Cyber Security **
+- @  I’m interested in **OpenAI & GPT's**
+- @  I'm interested in **Cyber Security**
 
 
 
