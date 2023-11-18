@@ -12,7 +12,8 @@
 
 - 🔭 I'm currently working on **Frontend web development, manual testing**
 - 🌱 I’m currently learning **Automation testing, Gen AI Product development**
-- - 🤔 I’m looking for help with **GPT PLUGIN DEVELOPMENT**
+- #  I’m interested in ** OpenAI & GPT's **
+- #  I'm interested in ** Cyber Security **
 
 
 
