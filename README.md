@@ -1,7 +1,7 @@
 <h1 align="center">🌸 Hi, I'm Md. Khorshedujjaman</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=5D9CEC&center=true&vCenter=true&width=600&lines=QA+Engineer+%7C+Frontend+Developer+%7C+AI+Explorer;Vibe+Coding+%7C+QA+Precision+%7C+AI+Innovation;Learning+n8n%2C+AI%2FML+%26+Automation" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=5D9CEC&center=true&vCenter=true&width=600&lines=QA+Engineer+%7C+Frontend+Developer+%7C+AI+Explorer;Learning+n8n%2C+AI%2FML+%26+Automation;Vibe+Coding+%2B+QA+Precision+%2B+AI+Innovation" alt="Typing SVG" />
 </p>
 
 ---
