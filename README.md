@@ -1,108 +1,54 @@
+<h1 align="center">👋 Hi, I'm Md. Khorshedujjaman</h1>
 
-<h1 align="center">Hi, I'm Md. Khorshedujjaman</h1>
-
-<a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=18&duration=3000&pause=&color=9AAD24&vCenter=true&multiline=true&width=435&height=60&lines=A+passionate+Developer+%26+SQA;Engineer+from+Bangladesh."
-        alt="Typing SVG" />
-</a>
-
-<img align="right" alt="Coding" width="300"
-    src="https://miro.medium.com/v2/resize:fit:720/format:webp/0*8HVwTXeE0s4ClEVp.jpeg">
-
-
-- 🔭 I'm currently working on **Frontend web development, manual testing**
-- 🌱 I’m currently learning **Automation testing, Gen AI Product development**
-- @  I’m interested in **OpenAI & GPT's**
-- @  I'm interested in **Cyber Security**
-
-
-
-<h3 align="left">
-    📫 Reach Me Here:
-</h3>
 <p align="center">
-    <a href="mailto:khorshedsagor4@gmail.com">
-        <img align="center"
-        src="https://img.shields.io/badge/Gmail-lightgrey?style=flat&logo=gmail"
-        alt="khorshedsagor4@gmail.com" height="30" width="80" />
-    </a>
-    <a href="https://github.com/KhorshedSagor" target="blank">
-        <img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg"
-            alt="KhorshedSagor" height="30" width="40" />
-    </a>
-    <a href="https://www.linkedin.com/in/md-khorshedujjaman-a10382229" target="blank">
-        <img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-            alt="MD KHORSHEDUJJAMAN" height="30" width="40" />
-    </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=4CAF50&center=true&vCenter=true&width=600&lines=QA+Engineer+%7C+Frontend+Developer+%7C+AI+Enthusiast;Passionate+about+Automation%2C+Chatbots+%26+OpenAI+APIs;Exploring+n8n+Automation+and+AI%2FML" alt="Typing SVG" />
 </p>
 
-<h3 align="left">
-    Languages and Tools:
-</h3>
-<p align="left">
-    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"
-            alt="typescript" width="40" height="40" />
-    </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-            alt="javascript" width="40" height="40" />
-    </a>
-    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40"
-            height="40" />
-    </a>
-    <a href="https://www.python.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-            alt="python" width="40" height="40" />
-    </a>
-    <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"
-            alt="bootstrap" width="40" height="40" />
-    </a>
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
-            alt="html5" width="40" height="40" />
-    </a>
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
-            alt="css3" width="40" height="40" />
-    </a>
-    <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-            alt="nodejs" width="40" height="40" />
-    </a>
-    <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
-        <img src="https://github.com/zafir100100/zafir100100/blob/main/resources/postgres.png"
-            alt="postgres" width="80" height="40" />
-    </a>
-    <a href="https://postman.com" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40"
-            height="40" />
-    </a>
-    <a href="https://www.selenium.dev" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg"
-            alt="selenium" width="40" height="40" />
-    </a>
-    <a href="https://jmeter.apache.org/" target="_blank" rel="noreferrer">
-        <img src="http://jmeter.apache.org/images/jmeter.png"
-            alt="Jmeter" width="120" height="40" />
-    </a>
-    <a href="https://www.cypress.io" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg"
-            alt="cypress" width="40" height="40" />
-    </a>
+---
+
+<img align="right" alt="Coding" width="300" src="https://miro.medium.com/v2/resize:fit:720/format:webp/0*8HVwTXeE0s4ClEVp.jpeg">
+
+### 👨‍💻 About Me  
+- 🔭 Currently working on **Frontend Development (React, TS) & QA Testing**  
+- 🌱 Learning **Automation Testing, n8n Workflows, and AI/ML**  
+- 🤖 Experience with **AI & Chatbot Solutions (OpenAI API, GPTs)**  
+- 🛡️ Curious about **Cybersecurity**  
+- ⚡ I enjoy building **practical AI-driven tools & automations**  
+
+---
+
+### 📫 Connect With Me  
+<p align="center">
+  <a href="mailto:khorshedsagor4@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/KhorshedSagor" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/md-khorshedujjaman-a10382229" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </p>
 
+---
 
+### 🛠️ Languages & Tools  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=typescript,react,js,html,css,bootstrap,nodejs,python,c,postgres,postman,selenium,jest,cypress" />
+</p>
 
+---
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=KhorshedSagor&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=KhorshedSagor&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=KhorshedSagor&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+### 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KhorshedSagor&show_icons=true&theme=radical&hide_border=true" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KhorshedSagor&theme=radical&hide_border=true" height="180"/>
+</p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhorshedSagor&layout=compact&theme=radical&hide_border=true" height="160"/>
+</p>
 
+---
 
+✨ *Always learning. Always building.* 🚀
