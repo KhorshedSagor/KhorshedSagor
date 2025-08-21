@@ -1,7 +1,7 @@
 <h1 align="center">🌸 Hi, I'm Md. Khorshedujjaman</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=5D9CEC&center=true&vCenter=true&width=600&lines=QA+Engineer+%7C+Frontend+Developer+%7C+AI+Explorer;Building+Chatbots%2C+Automation+%26+AI+Products;Learning+n8n%2C+AI%2FML+%26+Automation" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=5D9CEC&center=true&vCenter=true&width=600&lines=QA+Engineer+%7C+Frontend+Developer+%7C+AI+Explorer;Vibe+Coding+%7C+QA+Precision+%7C+AI+Innovation;Learning+n8n%2C+AI%2FML+%26+Automation" alt="Typing SVG" />
 </p>
 
 ---
@@ -13,7 +13,7 @@
 - 🌸 Exploring **Automation Testing, AI/ML, and n8n Workflows**  
 - 🤖 Hands-on with **OpenAI API & Chatbot Solutions**  
 - 🔐 Interested in **Cybersecurity**  
-- 💡 I love blending **QA precision + AI innovation**  
+- 💡 I love blending **Vibe Coding + QA precision + AI innovation**  
 
 ---
 
@@ -39,7 +39,7 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,react,js,html,css,bootstrap,nodejs,python,c,postgres,postman,selenium,jest,cypress&theme=light" />
+  <img src="https://skillicons.dev/icons?i=ts,react,js,html,css,bootstrap,nodejs,python,c,postgres,postman,selenium,cypress&theme=light" />
 </p>
 
 
