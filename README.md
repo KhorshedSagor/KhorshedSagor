@@ -32,11 +32,16 @@
 
 ---
 
-### 🛠️ Languages & Tools  
+### 🛠️ Languages & Tools 
+
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=ts,react,js,html,css,bootstrap,nodejs,python,c,postgres,postman,selenium,jest,cypress&theme=light" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhorshedSagor&layout=compact&theme=default&hide_border=true" height="160"/>
+</p>
 ---
 
 ### 📊 GitHub Stats  
@@ -45,9 +50,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=KhorshedSagor&theme=default&hide_border=true" height="180"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhorshedSagor&layout=compact&theme=default&hide_border=true" height="160"/>
-</p>
+
 
 ---
 
